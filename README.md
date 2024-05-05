@@ -7,10 +7,16 @@
 
 ## Sobre mi
 
-+3 años de experiencia en automatización de flujos de datos, enfocado en soluciones de alto valor. Tengo experiencia en Python y R para el manejo de datos,
-con un fuerte enfoque en visualización usando herramientas como Tableau y Data Studio. Con sólidos conocimientos en arquitectura de datos Azure y herramientas ETL como Airflow y Azure Synapse , 
-integro datos y tecnología para impulsar decisiones estratégicas.
+🚀 ¡Hola! Soy Francisco, un apasionado ingeniero de datos con más de tres años de experiencia en automatización de flujos de datos y desarrollo de software multiplataforma. Me especializo en diseñar soluciones de alto valor integrando tecnología y análisis estratégico.
 
-¿Te interesa colaborar? Contáctame por mensaje directo o envíame un correo a franciscodaniel.lh@gmail.com y emprendamos juntos este nuevo camino digital.
+💡 Me destaco en la visualización utilizando herramientas como Tableau y PowerBI. Poseo una sólida formación en arquitectura de datos con Azure y dominio de herramientas ETL como Airflow y Azure Synapse, lo que me permite optimizar y automatizar procesos de datos eficientemente.
+
+🖥️ Además, tengo experiencia como desarrollador fullstack lo que me permite crear soluciones integrales y multiplataforma.
+
+🌟 Autodidacta y proactivo, disfruto enfrentar desafíos y no me rindo fácilmente. Me apasiona aprender y aplicar nuevos conocimientos en diseño, desarrollo, datos, negocios y tecnología para impulsar decisiones estratégicas.
+
+📲 ¿Te gustaría colaborar? Contáctame por mensaje directo o envíame un correo a franciscodaniel.lh@gmail.com y emprendamos juntos este nuevo camino digital. 
+
+Visita mi sitio web: https://franciscodlh.online/
 <br>
 
