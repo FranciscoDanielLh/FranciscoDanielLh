@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-🚀 ¡Hola! Soy Francisco, un apasionado ingeniero de datos con más de tres años de experiencia en automatización de flujos de datos y desarrollo de software multiplataforma. Me especializo en diseñar soluciones de alto valor integrando tecnología y análisis estratégico.
+🚀Soy un apasionado ingeniero de datos con más de tres años de experiencia en automatización de flujos de datos y desarrollo de software multiplataforma. Me especializo en diseñar soluciones de alto valor integrando tecnología y análisis estratégico.
 
 💡 Me destaco en la visualización utilizando herramientas como Tableau y PowerBI. Poseo una sólida formación en arquitectura de datos con Azure y dominio de herramientas ETL como Airflow y Azure Synapse, lo que me permite optimizar y automatizar procesos de datos eficientemente.
 
