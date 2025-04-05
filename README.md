@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://franciscodlh.online/"> Francisco López </a> 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D5616AQG-0jLvdh1uNg/profile-displaybackgroundimage-shrink_350_1400/0/1714582090626?e=1720656000&v=beta&t=yBWuSdswBd3m9KAQCd1OaEzGzXtdxgT84jPKBDfpDJg">
+
 
 
 
